@@ -37,4 +37,10 @@ PAYPAL_CLIENT_ID = your paypal client id
 
 ### Landing Page Snapshot
 [![test](https://user-images.githubusercontent.com/42378118/133815926-7bb15f35-dd8e-4fb5-b6b6-cdd2cd48bc20.png)](https://onlinegroceryapp.herokuapp.com/)
- 
+![image](https://github.com/user-attachments/assets/0b21bd66-0edc-46d1-98f8-d059d974c65b)
+![image](https://github.com/user-attachments/assets/b1954079-fc42-4364-951c-e29e9993bd79)
+![image](https://github.com/user-attachments/assets/4896e194-0080-4bee-9d97-eb588680360b)
+
+
+
+
