@@ -61,23 +61,23 @@ This will launch the app at http://localhost:3000 in your browser.
 4. **Usage**
     Sign Up:
 
-        Go to the Sign Up page to create a new user account. You'll need to provide a username, email, and password.
+    Go to the Sign Up page to create a new user account. You'll need to provide a username, email, and password.
 
     Sign In:
 
-        Once signed up, you can sign in using your username and password to access personalized features like the shopping cart.
+    Once signed up, you can sign in using your username and password to access personalized features like the shopping cart.
 
     Browse Products:
 
-        Navigate through the Product List where you can see the available grocery products. Each product has a "View Details" link and an "Add to Cart" button.
+    Navigate through the Product List where you can see the available grocery products. Each product has a "View Details" link and an "Add to Cart" button.
 
     Add to Cart:
 
-        After browsing products, you can add them to your shopping cart. You can modify quantities and proceed to checkout.
+    After browsing products, you can add them to your shopping cart. You can modify quantities and proceed to checkout.
 
     Checkout:
 
-        After adding products to the cart, go to the Cart page and click on Proceed to Checkout. Provide your delivery information, and confirm your order.
+    After adding products to the cart, go to the Cart page and click on Proceed to Checkout. Provide your delivery information, and confirm your order.
 
 5. **Folder Structure**
 
