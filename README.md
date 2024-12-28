@@ -38,7 +38,7 @@ Before you start, ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/grocery-app.git
+   git clone https://github.com/Sherine07/NM-SEM-7-GROCERY-WEBAPP
    cd grocery-app
 
 2. **Install dependencies**:
